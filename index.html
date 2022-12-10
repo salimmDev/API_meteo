@@ -7,8 +7,27 @@
     <title>API_meteo</title>
     <link rel="stylesheet" href="style.css">
     <script defer src="main.js"></script>
+
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">            
 </head>
 <body>
-    <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam consequuntur nulla nisi magnam dolore sapiente, adipisci laborum perspiciatis sint explicabo laudantium eveniet praesentium ducimus molestiae deleniti dolor accusamus. Incidunt, maxime.</h1>
+    <h1 class="title text-light">Méteo</h1>
+
+    <form class="formulaire row" id="formSubmit">
+        <div class="col-auto">
+          <input type="text" class="form-control" name="" id="valueInput">
+        </div>
+        <div class="col-auto">
+          <input type="submit" class="btn btn-primary" value="Envoyer">
+        </div>
+      </form>
+
+    <div id="result" class="alert"></div>
+
+
+
 </body>
+
+<script src="./main.js"></script>
 </html>

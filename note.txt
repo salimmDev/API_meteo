@@ -1,1 +1,2 @@
 API : 1c5fb1b1844ad6f0fc63da13b1fc472f
+BASE URL : http://api.weatherstack.com/
