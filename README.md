@@ -6,4 +6,4 @@ Application récupérant des informations météorologique sur l'emplacement dé
 
 ## Maquette
 
-![maquette](https://user-images.githubusercontent.com/72151831/107120087-cf254080-688b-11eb-8c12-7600e3e063f4.png)
+![maquette](https://github.com/salimmDev/API_meteo/blob/main/meto-bg.png?raw=true)
